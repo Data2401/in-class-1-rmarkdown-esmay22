@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "Esmay Muniz"
 date: "Data 2401"
 output: html_document
 ---
@@ -31,4 +31,38 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 
 Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
+
+# My work here
+
+## Wisewords
+
+>*if it's not me, then who*
+
+[link] (https://www.goodreads.com/author/quotes/637379.Dean_Graziosi)
+
+# My semester
+
+|Course Number|Course Title|Instructor name|
+|:------------|:-----------|:--------------|
+|__2401__     |_Data Science_|Shoemaker    |
+|__4310__     |_Stats Computing_      |Mhoon      |
+|__4397__     |_Stat Regression Analysis with R_  |Nguyen       |
+
+
+## I recommend
+-shifting Latino's norms
+-Big icon in the Latino community
+-unapologetic for who he is, no matter his status
+-Makes great music
+
+
+## Bad Bunny
+
+>*a good song never gets old*
+
++ Artist of the year 2022
++ titi me pregunto
++ ojitos lindos
+
+ 
  
