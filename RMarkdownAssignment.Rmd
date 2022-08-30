@@ -36,7 +36,7 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 ## Wisewords
 
->*if it's not me, then who*
+> if it's not me, then who
 
 [link] (https://www.goodreads.com/author/quotes/637379.Dean_Graziosi)
 
@@ -58,7 +58,7 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 ## Bad Bunny
 
->*a good song never gets old*
+> a good song never gets old
 
 + Artist of the year 2022
 + titi me pregunto
